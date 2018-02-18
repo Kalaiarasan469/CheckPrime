@@ -8,6 +8,7 @@ void get()
 {
 cout<<"INPUT"<<endl;
 	cin>>n;
+	if(n>1000){get();}
 	}
 bool chck()
 {
